@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item
+        android:id="@+id/action_settings_menu"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never" />-->
+    <item
+        android:id="@+id/leader_board"
+        android:orderInCategory="100"
+        android:title="Leader Board"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/water_points"
+        android:orderInCategory="100"
+        android:title="Water Points"
+        app:showAsAction="never" />
+
+</menu>
